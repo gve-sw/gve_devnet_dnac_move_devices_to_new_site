@@ -1,0 +1,13 @@
+{
+    "type":"NETWORK_DEVICE",
+    "snmp_version": "<string>",
+    "snmp_ro_community": "<string>",
+    "snmp_rw_community": "<string>",
+    "snmp_retry": "<integer>",
+    "snmp_timeout": "<integer>",
+    "cli_transport": "<string>",
+    "username": "<string>",
+    "password": "<string>",
+    "enable_password": "<string>",
+    "netconf_port": "<string>"
+}
